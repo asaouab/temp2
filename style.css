@@ -1,0 +1,234 @@
+body
+{
+    overflow: auto;
+    /* max-width: 1000px; */
+    min-width: 500px;
+}
+.one 
+{
+    position: absolute;
+    background-color: rgb(249, 249, 249);
+    width: 840px;
+    height:1040px;
+    padding: 100px;
+    display: inline-block;
+    margin-left: 400px;
+    z-index: 100;
+    margin-top: 300px;
+}
+
+#together/* form here starting only modified the images*/
+{
+    width: 280px;
+    height: 200px;
+    margin-left: 560px;
+}
+#communities
+{
+    width: 520px;
+    height: 390px;
+    text-align: center;
+    margin-left: 200px;
+    margin-bottom: 40px;
+}/* we done here from modified the images*/
+#button1
+{
+    border-radius: 20px;
+    width: 145px;
+    height: 34px;
+    color: palevioletred;
+    border-color: palevioletred;
+    background-color: white;
+    position: absolute;
+    margin-left: 420px; 
+}
+.first
+{
+text-align: center;
+}
+#build
+{
+    font-size: 36px;
+    font-family: system-ui, '-apple-system, BlinkMacSystemFont', 'Segoe UI', 'Roboto, Oxygen, Ubuntu, Cantarell', 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#grow
+{
+    position: relative;
+    margin-top: -180px;
+    font-size: 36px;
+    font-family: system-ui, '-apple-system, BlinkMacSystemFont', 'Segoe UI', 'Roboto, Oxygen, Ubuntu, Cantarell', 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#button2
+{
+    border-radius: 20px;
+    width: 165px;
+    height: 44px;
+    color: rgb(246, 246, 246);
+    border-color: rgb(246, 47, 113);
+    background-color:rgb(249, 36, 107);
+    margin-bottom: 40px;
+}
+#ka
+{
+    font-size: 46px;
+    font-style: oblique;
+}
+.maclass
+{
+    margin-left: 420px;
+    margin-top: -100px;
+    display: inline-block;
+    margin-bottom: 30px;
+}
+.kaclass
+{
+    display: inline-block;
+}
+#ma
+{
+    font-size: 46px;
+    font-style: oblique;
+    margin-top: -80x;
+}
+#para1
+{
+    color: rgb(145, 148, 148);
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+#para2
+{
+    color: rgb(145, 148, 148);
+    font-size: 16px;
+}
+#under
+{
+    margin-top:-50px;
+    color: rgb(145, 148, 148);
+    font-size: 16px;
+}
+#pict
+{
+    margin-bottom: -50px;
+}
+/*from here starting modified the next template*/
+.two
+{
+    position: relative;
+    background-color: rgb(246, 245, 244);
+    width: 840px;
+    height:1040px;
+    padding: 100px;
+    display: inline-block;
+    z-index: -1;
+    margin-left: 1360px;
+    margin-top: 200px;
+}
+#button3
+{
+    margin-left: 350px;
+    text-align: center;
+    border-radius: 20px;
+    width: 165px;
+    height: 44px;
+    color: rgb(246, 246, 246);
+    border-color: rgb(246, 47, 113);
+    background-color:rgb(249, 36, 107);
+}
+#conve
+{
+    white-space: nowrap;
+    font-size: 36px;
+    font-family: system-ui, '-apple-system, BlinkMacSystemFont', 'Segoe UI', 'Roboto, Oxygen, Ubuntu, Cantarell', 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#par1
+{
+    color: rgb(145, 148, 148);
+    font-size: 16px;
+}
+.wrong
+{
+    position:relative;
+    margin-left:500px;
+    margin-top: -232px;
+ 
+}
+#flowing
+{
+    width: 320px;
+    height: 240px;
+}
+#users
+{
+    width: 320px;
+    height: 240px;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+#your
+{
+    font-size: 36px;
+    font-family: system-ui, '-apple-system, BlinkMacSystemFont', 'Segoe UI', 'Roboto, Oxygen, Ubuntu, Cantarell', 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#par2
+{
+    color: rgb(145, 148, 148);
+    font-size: 16px;
+}
+#ready
+{
+    margin-top: 160px;
+    text-align: center;
+    font-size: 36px;
+    font-family: system-ui, '-apple-system, BlinkMacSystemFont', 'Segoe UI', 'Roboto, Oxygen, Ubuntu, Cantarell', 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#sub
+{
+    border-color: rgb(246, 47, 113);
+    background-color:rgb(249, 36, 107);
+    color:white;
+}
+.last
+{
+    position:relative;
+    background-color: black;
+    color: whitesmoke;
+    padding: 10px;
+    margin-left: -77px;
+    width: 980px;
+    height: 270px;
+    margin-top: 66px;
+}
+#left
+{
+position: relative;
+}
+#right 
+{
+margin-left: 720px;
+margin-top: -280px;
+}
+#new
+{
+    font-size: 36px;
+    font-family: system-ui, '-apple-system, BlinkMacSystemFont', 'Segoe UI', 'Roboto, Oxygen, Ubuntu, Cantarell', 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+#same
+{
+    color: rgb(145, 148, 148);
+    font-size: 16px;
+}
+.takes
+{
+    margin-top: -222px;
+}
+#space
+{
+    margin-left: 30px;
+    margin-top: -56px;
+}
+#logo2
+{
+    text-align: center;
+}
